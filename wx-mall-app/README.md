@@ -1,7 +1,6 @@
-> 基于[M2前端全家桶框架](https://github.com/miracle-git/wx)搭建的企业级微信端开发应用。
+> 基于[M2前端全家桶框架](https://github.com/miracle-git/wx)搭建的企业级微信小程序端开发应用。
 
-## [项目规范](https://github.com/miracle-git/m2-vue-web/blob/main/PROJECT.md)
-## [接口Mock](https://github.com/miracle-git/wx/wx-mall-app/blob/main/SERVER.md)
+## [项目规范](https://github.com/miracle-git/m2-wx-app/blob/main/PROJECT.md)
 
 ## 运行步骤
 
